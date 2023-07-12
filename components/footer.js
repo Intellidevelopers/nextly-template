@@ -32,7 +32,7 @@ export default function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is innovative startup Tech company thats changing the world! With a passion for 
+              Nextly is a best innovative startup Tech company thats changing the world! With a passion for 
               ceating cutting-edge technology solutions.
             </div>
 
