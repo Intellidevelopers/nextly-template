@@ -198,7 +198,7 @@ const Backlink = () => {
         />
       </svg>
 
-      <span>Web3Templates</span>
+      <span>Nextly</span>
     </a>
   );
 };
