@@ -28,19 +28,19 @@ const Home = () => {
       <Hero />
       <SectionTitle
         pretitle="Nextly Benefits"
-        title=" Why should you use this landing page">
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        title=" Why should you contact me?">
+        I specialize in website and app development, transforming your ideas into engaging digital experiences.
+        <br />
+        With a passion for creating seamless and intuitive user interfaces, 
+        I strive to build websites and apps that leave a lasting impression.
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
         pretitle="Watch a video"
         title="Learn how to fullfil your needs">
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don&apos;t forget to add one. Just like this.
+        In today's dynamic digital landscape, capturing the attention
+        of your audience is paramount.
       </SectionTitle>
       <Video />
       <SectionTitle
@@ -51,8 +51,8 @@ const Home = () => {
       </SectionTitle>
       <Testimonials />
       <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
+      My portfolio stands out through a combination of clean design, 
+      intuitive navigation, and a showcase of my diverse skill set.
       </SectionTitle>
       <Faq />
       <Cta />

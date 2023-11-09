@@ -13,8 +13,8 @@ const Testimonials  = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Share a real <Mark>testimonial</Mark>
-              that hits some of your benefits from one of your popular customer.
+            "Working with <Mark>Nextly</Mark> was a game-changer for my e-commerce venture. 
+            Their attention to detail and commitment to delivering a seamless user experience were evident from the start.
             </p>
 
             <Avatar
@@ -27,8 +27,8 @@ const Testimonials  = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Make sure you only pick the <Mark>right sentence</Mark>
-              to keep it short and simple.
+            "I had the pleasure of <Mark>collaborating</Mark> with Nextly on 
+            redesigning my small business website, and the results were phenomenal. 
             </p>
 
             <Avatar
@@ -41,8 +41,8 @@ const Testimonials  = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              This is an <Mark>awesome</Mark> landing page template I&apos;ve seen. I
-              would use this for anything.
+            "In the fast-paced world of tech startups, having a website that stands out is crucial. <mark>Nextly</mark> not only understood our
+             unique needs but also delivered a website that perfectly <Mark>encapsulated</Mark> our brand identity. 
             </p>
 
             <Avatar

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Started</title>
+    <style>
+        body{
+            font-family: arial,helvetica,sans-serif;
+        }
+        form{
+            display: grid;
+        }
+        input{
+            padding: 10px;
+            margin: 10px;
+            border: 2px solid lightgrey;
+            border-radius: 5px;
+        }
+        textarea{
+            width: 95%;
+            margin-left: 2%;
+            border-radius: 5px;
+            border: 2px solid lightgrey;
+        }
+        input[type="button"]{
+            background-color: blueviolet;
+            padding: 15px;
+            border: none;
+            outline: none;
+            color: white;
+            font-size: 16px;
+            font-weight: 700;
+            border-radius: 5px;
+        }
+        h2{
+            margin-left: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Contact me</h2>
+        <form action="https://formspree.io/f/xyyqbrer">
+            <input type="text" placeholder="Your name">
+            <input type="text" placeholder="Your email">
+            <input type="text" placeholder="Your phone number">
+            <textarea name="description" id="" cols="30" rows="5" placeholder="How can i help you...."></textarea>
+            <input type="button" value="Submit">
+        </form>
+    </div>
+</body>
+</html>

@@ -35,22 +35,22 @@ const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "How can i get in touch with you?",
+    answer: "You can contact me through the 'CONTACT ME' button",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "Do you sell websites scripts?",
+    answer: "Yes, i offer ultimate websites scripts with free support.",
   },
   {
-    question: "What is your refund policy? ",
+    question: "How long does it takes you to complete a website? ",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "It depends on your time frame and your budget.",
   },
   {
     question: "Do you offer technical support? ",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "Yes, we offer technical support but not free. Please purchase a support plan to get 6 months of support.",
   },
 ];
 
