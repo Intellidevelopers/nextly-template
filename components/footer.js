@@ -32,9 +32,8 @@ export default function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+              Nextly is a best innovative startup Tech company thats changing the world! With a passion for 
+              ceating cutting-edge technology solutions.
             </div>
 
             <div className="mt-5">
@@ -112,14 +111,14 @@ export default function Footer() {
             href="https://web3templates.com/"
             target="_blank"
             rel="noopener">
-            Web3Templates.
+            Nextly.
           </a>{" "}
           Illustrations from{" "}
           <a
             href="https://www.glazestock.com/"
             target="_blank"
             rel="noopener ">
-            Glazestock
+            Intellidevelopers
           </a>
         </div>
       </Container>
@@ -198,7 +197,7 @@ const Backlink = () => {
         />
       </svg>
 
-      <span>Web3Templates</span>
+      <span>Nextly</span>
     </a>
   );
 };
